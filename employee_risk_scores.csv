@@ -1,0 +1,295 @@
+Age,Department,JobRole,MonthlyIncome,Attrition_Probability,Actual_Attrition,Risk_Level
+21,Sales,Sales Representative,2174,0.9927361646711618,Yes,High
+25,Sales,Sales Representative,1118,0.9879038753992618,Yes,High
+19,Sales,Sales Representative,2121,0.9666340241590355,Yes,High
+40,Sales,Sales Executive,9094,0.9650635907953632,Yes,High
+25,Sales,Sales Representative,4400,0.9635859064395929,Yes,High
+26,Research & Development,Research Scientist,2042,0.9523821790017691,Yes,High
+31,Sales,Sales Executive,4559,0.9402569220114544,Yes,High
+33,Research & Development,Research Scientist,3348,0.9346026272287794,Yes,High
+31,Human Resources,Human Resources,6410,0.923375472735381,No,High
+24,Sales,Sales Executive,4577,0.918893038581324,Yes,High
+33,Sales,Sales Executive,8224,0.9157256703958014,Yes,High
+41,Sales,Sales Representative,3140,0.9008206849213902,Yes,High
+50,Sales,Sales Representative,2683,0.8977055448013441,Yes,High
+28,Research & Development,Laboratory Technician,3867,0.8911180714075566,No,High
+42,Research & Development,Laboratory Technician,4272,0.8874080035039112,No,High
+21,Sales,Sales Representative,3447,0.886797627036629,No,High
+26,Sales,Sales Executive,5828,0.8832096857780907,Yes,High
+18,Sales,Sales Representative,1200,0.8646647005899185,No,High
+24,Research & Development,Research Scientist,3760,0.8611219357473097,No,High
+35,Research & Development,Laboratory Technician,4425,0.8610688122304231,No,High
+24,Research & Development,Laboratory Technician,3597,0.8590781534611232,No,High
+47,Sales,Sales Representative,2976,0.8536523332230409,No,High
+32,Research & Development,Laboratory Technician,3730,0.8535724528370117,Yes,High
+38,Sales,Sales Representative,2858,0.844319722223385,No,High
+30,Research & Development,Laboratory Technician,2422,0.8250655257963865,Yes,High
+29,Sales,Sales Representative,2800,0.8215678597200098,Yes,High
+29,Research & Development,Research Scientist,2404,0.8198158624390409,Yes,High
+35,Research & Development,Research Scientist,4249,0.8169628864475481,No,High
+25,Sales,Sales Executive,4487,0.7982376258395706,No,High
+38,Sales,Sales Executive,6861,0.7881132129979509,No,High
+31,Research & Development,Research Scientist,2321,0.769566608025125,Yes,High
+23,Research & Development,Laboratory Technician,3295,0.7674593992441501,No,High
+40,Sales,Sales Executive,9705,0.7461506907776332,No,High
+35,Research & Development,Laboratory Technician,3681,0.7441714313079477,No,High
+38,Research & Development,Research Scientist,3057,0.7435943385425977,No,High
+47,Sales,Sales Representative,3294,0.7392416822576797,No,High
+36,Research & Development,Manufacturing Director,4663,0.7388901772552195,No,High
+29,Research & Development,Research Scientist,2389,0.736362817000202,Yes,High
+35,Human Resources,Human Resources,8837,0.7355863217539287,No,High
+35,Research & Development,Research Scientist,4930,0.7321671353923449,No,High
+36,Sales,Sales Executive,6134,0.7288215431889716,Yes,High
+37,Research & Development,Laboratory Technician,2090,0.7235292267578449,Yes,High
+56,Research & Development,Research Scientist,4963,0.7115027999520032,Yes,High
+27,Research & Development,Research Scientist,2478,0.6962113453059047,No,High
+26,Research & Development,Research Scientist,2933,0.694690572082016,No,High
+39,Research & Development,Manager,19272,0.6929227244978116,No,High
+35,Research & Development,Healthcare Representative,10388,0.6924233085422834,No,High
+39,Human Resources,Human Resources,6389,0.6922369880305616,No,High
+36,Research & Development,Research Scientist,3388,0.6842983517075027,Yes,High
+29,Research & Development,Research Scientist,4787,0.6674971452010438,Yes,High
+32,Sales,Sales Executive,9610,0.6670030416443385,No,High
+32,Research & Development,Research Scientist,3433,0.6611812542888713,No,High
+30,Research & Development,Manufacturing Director,9667,0.6595823043051889,No,High
+40,Research & Development,Manufacturing Director,7945,0.654329720318713,No,High
+25,Sales,Sales Executive,4256,0.6459688284827424,No,High
+51,Research & Development,Laboratory Technician,2838,0.6449979679067687,No,High
+31,Sales,Sales Representative,2791,0.6379599001612141,No,High
+42,Research & Development,Research Scientist,2759,0.6379037363021236,Yes,High
+34,Sales,Sales Executive,9888,0.6330874635007835,No,High
+27,Research & Development,Manufacturing Director,6142,0.6111336896549591,No,High
+22,Research & Development,Laboratory Technician,2871,0.6078978441624798,No,High
+31,Research & Development,Laboratory Technician,4197,0.5935674223750249,No,High
+31,Sales,Sales Representative,2789,0.5887430316630056,No,High
+22,Research & Development,Research Scientist,2853,0.5864637947550725,Yes,High
+29,Sales,Sales Representative,2157,0.5862263881007733,No,High
+31,Research & Development,Research Scientist,3929,0.5854440809027217,No,High
+35,Research & Development,Manufacturing Director,9362,0.5844607773853362,No,High
+35,Sales,Sales Representative,2430,0.5830237764487571,No,High
+37,Research & Development,Healthcare Representative,4777,0.5819878464586413,Yes,High
+35,Research & Development,Laboratory Technician,2705,0.5795249965802576,No,High
+51,Sales,Sales Executive,10596,0.5792767649897395,No,High
+30,Research & Development,Manufacturing Director,6877,0.5682806916388186,No,High
+27,Sales,Sales Representative,3540,0.566830275309393,No,High
+44,Research & Development,Laboratory Technician,3708,0.5551123800930113,No,High
+35,Sales,Sales Executive,4581,0.5550815119163769,Yes,High
+48,Research & Development,Laboratory Technician,2559,0.5463644547032923,No,High
+36,Sales,Sales Executive,5507,0.5458925833646354,No,High
+26,Human Resources,Human Resources,2148,0.5344607437307964,Yes,High
+34,Research & Development,Laboratory Technician,4404,0.5311616661477035,No,High
+28,Sales,Sales Representative,1052,0.526292766796554,No,High
+31,Sales,Sales Executive,5468,0.5178209875771386,No,High
+36,Sales,Sales Representative,4502,0.5158477298352598,No,High
+34,Research & Development,Laboratory Technician,2008,0.5086847522736306,No,High
+54,Sales,Sales Executive,10686,0.5069879219160949,No,High
+29,Research & Development,Manufacturing Director,5056,0.49957128753322283,No,Medium
+31,Sales,Sales Executive,5332,0.4904153086255434,No,Medium
+41,Human Resources,Manager,19141,0.48804847093249853,No,Medium
+30,Research & Development,Research Scientist,2141,0.48304841033489904,No,Medium
+50,Sales,Sales Executive,4728,0.4803719327012388,Yes,Medium
+48,Sales,Sales Representative,2655,0.4769215203843144,Yes,Medium
+49,Sales,Sales Executive,13120,0.4743465718165181,No,Medium
+29,Research & Development,Healthcare Representative,6294,0.46481036021266425,No,Medium
+44,Human Resources,Human Resources,10482,0.45926625183413133,Yes,Medium
+28,Research & Development,Healthcare Representative,8722,0.4528867958565867,Yes,Medium
+44,Research & Development,Laboratory Technician,2362,0.4519733052564538,Yes,Medium
+36,Research & Development,Manufacturing Director,6499,0.44950588637303696,No,Medium
+33,Human Resources,Human Resources,2277,0.43847915601126214,No,Medium
+33,Sales,Sales Executive,4373,0.4316302650995007,No,Medium
+26,Research & Development,Research Scientist,3102,0.43136639530726184,Yes,Medium
+31,Research & Development,Manufacturing Director,6179,0.4267877907156891,Yes,Medium
+31,Research & Development,Laboratory Technician,1129,0.4156565731900893,No,Medium
+24,Research & Development,Research Scientist,2725,0.41478229881738865,No,Medium
+41,Research & Development,Research Scientist,2107,0.40923670307835336,Yes,Medium
+34,Research & Development,Research Scientist,2960,0.40911891285936064,Yes,Medium
+43,Research & Development,Laboratory Technician,5257,0.38797436866233326,No,Medium
+26,Sales,Sales Executive,6272,0.3824738923539489,No,Medium
+31,Research & Development,Research Scientist,5003,0.3803470848270445,No,Medium
+29,Research & Development,Healthcare Representative,4335,0.37840665049406996,No,Medium
+29,Research & Development,Laboratory Technician,2974,0.37385743735222576,No,Medium
+42,Research & Development,Laboratory Technician,2766,0.37358868324509525,No,Medium
+33,Research & Development,Research Scientist,2909,0.37036560731652257,No,Medium
+40,Research & Development,Manufacturing Director,6516,0.36655023044969,No,Medium
+35,Research & Development,Healthcare Representative,9884,0.3624448045285614,No,Medium
+35,Research & Development,Healthcare Representative,6540,0.3613477287949444,No,Medium
+37,Research & Development,Research Scientist,2782,0.35206039732895644,No,Medium
+24,Research & Development,Laboratory Technician,2127,0.35022466569386557,No,Medium
+45,Research & Development,Research Scientist,4477,0.34799857751794183,No,Medium
+34,Research & Development,Research Scientist,5484,0.34770485871546175,No,Medium
+44,Research & Development,Healthcare Representative,5933,0.3422255774049981,No,Medium
+34,Sales,Sales Executive,9713,0.3378888057962642,No,Medium
+41,Research & Development,Research Scientist,2127,0.336988931643732,No,Medium
+50,Research & Development,Laboratory Technician,2380,0.33533637051659687,No,Medium
+22,Research & Development,Laboratory Technician,2935,0.33385613542024173,No,Medium
+39,Sales,Sales Executive,5736,0.33344260816339566,No,Medium
+26,Research & Development,Research Scientist,3904,0.33096949469357423,No,Medium
+32,Research & Development,Research Scientist,3038,0.32446491087164847,No,Medium
+28,Research & Development,Research Scientist,3201,0.3234803668854756,No,Medium
+41,Research & Development,Manager,17181,0.3182029302385791,No,Medium
+25,Sales,Sales Executive,4907,0.31365222313388846,No,Medium
+40,Research & Development,Laboratory Technician,2387,0.31272424915580543,No,Medium
+31,Sales,Manager,11557,0.31161841455451067,No,Medium
+38,Research & Development,Laboratory Technician,2288,0.3063698946775178,No,Medium
+39,Research & Development,Manufacturing Director,8376,0.3007319977648706,No,Medium
+30,Research & Development,Laboratory Technician,3491,0.2965343627002021,No,Medium
+35,Research & Development,Laboratory Technician,2426,0.2944935344132241,No,Medium
+43,Research & Development,Research Scientist,2438,0.2887601648608385,No,Medium
+39,Research & Development,Laboratory Technician,3755,0.2860351189971623,No,Medium
+24,Sales,Sales Representative,2033,0.2836687601356232,No,Medium
+41,Research & Development,Laboratory Technician,2238,0.2830090913825861,No,Medium
+51,Research & Development,Manufacturing Director,10650,0.2823906635218237,Yes,Medium
+30,Research & Development,Laboratory Technician,4011,0.2757138732393771,No,Medium
+28,Research & Development,Manufacturing Director,6549,0.2738416506565095,No,Medium
+32,Research & Development,Research Scientist,2439,0.26978695118088253,No,Medium
+51,Research & Development,Research Scientist,2461,0.26701034302035714,Yes,Medium
+30,Research & Development,Laboratory Technician,3833,0.2654970065312262,No,Medium
+40,Research & Development,Manufacturing Director,13237,0.26039916318500284,No,Medium
+49,Research & Development,Laboratory Technician,3211,0.2580460855177263,No,Medium
+33,Research & Development,Healthcare Representative,5488,0.2507926357393324,No,Medium
+29,Research & Development,Research Scientist,2109,0.250099684558454,No,Medium
+36,Research & Development,Manufacturing Director,4941,0.24946349062292467,No,Low
+31,Sales,Sales Executive,9852,0.24668875526164313,No,Low
+42,Sales,Sales Executive,6825,0.24468208890638832,No,Low
+41,Research & Development,Laboratory Technician,4721,0.24422621193253224,No,Low
+27,Research & Development,Research Scientist,2318,0.2402939993517511,No,Low
+50,Human Resources,Manager,18200,0.23667527388481985,No,Low
+25,Research & Development,Research Scientist,2096,0.2334652229106891,No,Low
+45,Research & Development,Research Scientist,2274,0.22901969511372197,No,Low
+34,Research & Development,Research Scientist,2929,0.22729150057620195,No,Low
+37,Sales,Sales Executive,9525,0.22721329475609173,No,Low
+28,Sales,Sales Executive,5253,0.22563986380485263,No,Low
+18,Research & Development,Research Scientist,1514,0.22199702447805816,No,Low
+43,Sales,Sales Executive,6804,0.22147594130137624,No,Low
+36,Research & Development,Manufacturing Director,8858,0.22014148294789473,No,Low
+34,Research & Development,Manufacturing Director,4724,0.21958526820777113,No,Low
+37,Sales,Sales Executive,6694,0.21896999690379726,No,Low
+26,Research & Development,Research Scientist,2061,0.21452698216743118,No,Low
+43,Sales,Sales Executive,7847,0.21436115354740973,No,Low
+56,Sales,Sales Executive,5380,0.21276165828212015,No,Low
+32,Research & Development,Research Scientist,3298,0.21253468849680604,No,Low
+39,Research & Development,Manufacturing Director,5295,0.20917932357010338,No,Low
+58,Research & Development,Research Scientist,2479,0.20716811255063056,Yes,Low
+42,Research & Development,Manufacturing Director,4434,0.20679103071591018,No,Low
+33,Research & Development,Research Scientist,2686,0.20385511988389884,Yes,Low
+21,Research & Development,Research Scientist,3230,0.2027313270256524,No,Low
+25,Research & Development,Laboratory Technician,3669,0.19537653506061234,No,Low
+32,Sales,Sales Executive,9204,0.19085214099912087,No,Low
+34,Research & Development,Manufacturing Director,5957,0.18622789817563892,No,Low
+43,Research & Development,Manager,19392,0.18614332507077294,No,Low
+31,Human Resources,Human Resources,2109,0.18258133146552535,No,Low
+32,Sales,Sales Executive,4465,0.18184211896095953,No,Low
+29,Research & Development,Research Scientist,2058,0.17890009970690213,Yes,Low
+46,Sales,Sales Executive,10453,0.17735632562934145,No,Low
+34,Research & Development,Research Scientist,4505,0.17719335435835348,No,Low
+46,Sales,Manager,16606,0.1752473885159997,No,Low
+52,Sales,Sales Representative,3482,0.1692924215855176,No,Low
+41,Sales,Sales Executive,8392,0.16816110436813436,No,Low
+27,Sales,Sales Executive,6500,0.16770489243063896,No,Low
+54,Research & Development,Research Scientist,2897,0.16529438989483017,No,Low
+45,Research & Development,Healthcare Representative,5399,0.16437307200898355,No,Low
+36,Research & Development,Laboratory Technician,2810,0.1546466189217784,No,Low
+41,Research & Development,Research Scientist,3072,0.15407580461089943,No,Low
+37,Research & Development,Manufacturing Director,7491,0.15139718311304076,No,Low
+34,Research & Development,Research Director,17007,0.15027996479888756,No,Low
+31,Research & Development,Research Director,13675,0.14787996559370975,No,Low
+27,Research & Development,Laboratory Technician,2341,0.1471272744579857,No,Low
+36,Sales,Sales Executive,6201,0.14350822496739357,No,Low
+32,Sales,Sales Representative,2827,0.1421507238392591,No,Low
+30,Research & Development,Laboratory Technician,3072,0.13799527460059818,No,Low
+39,Research & Development,Laboratory Technician,2232,0.1349719392204362,No,Low
+46,Research & Development,Healthcare Representative,10527,0.1349064467568287,No,Low
+27,Sales,Sales Executive,4105,0.12927650242972002,No,Low
+37,Research & Development,Healthcare Representative,4107,0.12920292794935215,No,Low
+51,Research & Development,Manufacturing Director,6132,0.11942255094671722,No,Low
+26,Research & Development,Laboratory Technician,2544,0.11876870174286268,No,Low
+36,Sales,Sales Executive,9738,0.117158723956482,No,Low
+21,Research & Development,Research Scientist,2693,0.11095784214109743,Yes,Low
+59,Sales,Sales Executive,5171,0.1095063611434745,No,Low
+37,Research & Development,Research Scientist,4680,0.10797077746470479,No,Low
+35,Research & Development,Manufacturing Director,10274,0.1060682667563179,No,Low
+28,Research & Development,Research Scientist,2377,0.10583400438352294,No,Low
+41,Research & Development,Research Director,19545,0.10539520976331403,Yes,Low
+38,Sales,Sales Executive,5343,0.10217140413365759,No,Low
+27,Research & Development,Research Scientist,3445,0.10147680106002221,No,Low
+51,Research & Development,Research Director,19537,0.1000367326476363,No,Low
+23,Research & Development,Research Scientist,2904,0.09870637120355631,No,Low
+33,Research & Development,Research Scientist,2911,0.09859469843237471,No,Low
+38,Research & Development,Research Scientist,2821,0.09686363010056469,No,Low
+33,Sales,Sales Executive,5147,0.0960917923617564,No,Low
+42,Human Resources,Human Resources,6272,0.0947669143862422,No,Low
+37,Research & Development,Research Director,13664,0.09474089333083469,No,Low
+41,Research & Development,Healthcare Representative,6811,0.09263831633051284,No,Low
+26,Research & Development,Laboratory Technician,4420,0.08984009324326854,No,Low
+27,Research & Development,Research Scientist,2279,0.08958848045606758,No,Low
+22,Research & Development,Research Scientist,2323,0.08621177703086551,No,Low
+41,Sales,Manager,16015,0.08603483266075884,No,Low
+30,Human Resources,Human Resources,2064,0.08178750054246182,No,Low
+35,Research & Development,Research Scientist,2506,0.08146626557608373,No,Low
+52,Research & Development,Manufacturing Director,7969,0.07951132559631037,No,Low
+36,Sales,Sales Executive,5406,0.0785199168295947,No,Low
+35,Research & Development,Research Scientist,2977,0.07685511587542884,No,Low
+41,Human Resources,Manager,19189,0.07591554423223525,No,Low
+28,Research & Development,Research Scientist,3591,0.07522540118757957,No,Low
+56,Human Resources,Manager,19717,0.07442819837963272,No,Low
+43,Sales,Manager,16064,0.07336426117929916,No,Low
+24,Research & Development,Manufacturing Director,4377,0.07241150850452095,No,Low
+43,Research & Development,Healthcare Representative,7510,0.07154543386465925,No,Low
+49,Sales,Sales Executive,5390,0.06943206976233098,No,Low
+34,Sales,Sales Executive,4759,0.0685634235893333,No,Low
+35,Research & Development,Research Scientist,5208,0.0685039566586513,No,Low
+50,Research & Development,Research Director,19237,0.0641825292352495,No,Low
+42,Research & Development,Manager,19232,0.06274842119379365,No,Low
+38,Sales,Sales Executive,10609,0.06133339622503996,No,Low
+55,Research & Development,Manager,19187,0.060489954008959144,No,Low
+59,Research & Development,Research Scientist,2177,0.060303666199464895,No,Low
+56,Research & Development,Research Scientist,2066,0.05994246208180102,No,Low
+35,Sales,Sales Executive,7823,0.05971850137805286,No,Low
+44,Research & Development,Healthcare Representative,5033,0.058464398050861364,No,Low
+43,Human Resources,Human Resources,3539,0.058348963962788894,No,Low
+37,Human Resources,Human Resources,4071,0.05826034506181561,No,Low
+44,Research & Development,Research Director,16328,0.057092986281506164,No,Low
+46,Sales,Manager,18789,0.053409896926210364,No,Low
+45,Research & Development,Manufacturing Director,5906,0.052607071573688144,No,Low
+59,Research & Development,Manufacturing Director,10512,0.04867065749592165,No,Low
+44,Research & Development,Manager,19190,0.04728602299388279,No,Low
+58,Research & Development,Healthcare Representative,10312,0.04514294139110661,Yes,Low
+52,Research & Development,Manager,19999,0.04372292050715779,No,Low
+37,Research & Development,Manufacturing Director,6347,0.041650947539021856,No,Low
+51,Research & Development,Healthcare Representative,13734,0.03942523582305412,No,Low
+39,Sales,Sales Executive,5902,0.038996242211263396,No,Low
+28,Research & Development,Research Scientist,3660,0.03697506185075694,No,Low
+40,Research & Development,Healthcare Representative,4069,0.035474268112669564,No,Low
+36,Research & Development,Laboratory Technician,3210,0.034943601952518576,No,Low
+55,Research & Development,Research Director,19038,0.03426008981036121,No,Low
+33,Research & Development,Laboratory Technician,2028,0.03229537574088979,No,Low
+40,Research & Development,Healthcare Representative,6377,0.030768312689894012,No,Low
+38,Sales,Sales Executive,5249,0.029206865263495377,No,Low
+56,Research & Development,Research Scientist,2942,0.029115874242769593,No,Low
+32,Research & Development,Research Scientist,5470,0.02905618361634824,No,Low
+38,Sales,Sales Executive,4440,0.027037322334473667,No,Low
+46,Research & Development,Manufacturing Director,8578,0.021251239552816166,No,Low
+29,Research & Development,Research Scientist,2700,0.019861574488340965,No,Low
+34,Sales,Sales Executive,4001,0.01985779462866134,No,Low
+44,Research & Development,Research Scientist,2011,0.019442830856682837,No,Low
+37,Research & Development,Research Director,12185,0.01874591348170576,No,Low
+28,Research & Development,Research Scientist,2044,0.018374209563973117,No,Low
+35,Research & Development,Manufacturing Director,6883,0.018356725023902336,No,Low
+37,Research & Development,Research Scientist,2115,0.017806921581517615,No,Low
+50,Research & Development,Manager,17856,0.01687189022688879,No,Low
+43,Research & Development,Research Director,14336,0.015801753468717195,No,Low
+45,Sales,Manager,17650,0.012858450188437134,No,Low
+33,Research & Development,Research Director,16184,0.011886520347825134,No,Low
+46,Research & Development,Research Director,19627,0.01133054372017084,No,Low
+38,Research & Development,Healthcare Representative,9824,0.010959507674937224,No,Low
+53,Research & Development,Manufacturing Director,10169,0.00854333660418708,Yes,Low
+58,Research & Development,Research Director,19701,0.008401596114686861,No,Low
+35,Research & Development,Healthcare Representative,5093,0.007907313623297106,No,Low
+43,Research & Development,Research Director,19740,0.007234427417519344,No,Low
+53,Research & Development,Research Director,14275,0.0067727267419790595,No,Low
+53,Research & Development,Manager,19094,0.006720978029269514,No,Low
+37,Research & Development,Healthcare Representative,5163,0.00521465532679788,No,Low
+49,Research & Development,Healthcare Representative,10466,0.003891342140843227,No,Low
+40,Research & Development,Research Director,19436,0.0029656256979297213,No,Low
+35,Research & Development,Manufacturing Director,5762,0.002232690319629357,No,Low
+40,Research & Development,Research Director,13757,0.0021554337634821503,No,Low
