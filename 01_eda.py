@@ -11,7 +11,7 @@ sns.set_style("whitegrid")
 plt.rcParams["figure.figsize"] = (10, 6)
 
 # ---- Load data ----
-df = pd.read_csv("/home/claude/hr_attrition.csv")
+df = pd.read_csv("hr_attrition.csv")
 print("Shape:", df.shape)
 print("\nColumns:\n", df.columns.tolist())
 print("\nMissing values:\n", df.isnull().sum().sum(), "total missing values")
@@ -24,7 +24,7 @@ print("\nAttrition rate:\n", attrition_rate)
 # EmployeeCount, StandardHours, Over18 are constant across all rows — no signal
 useless_cols = ["EmployeeCount", "StandardHours", "Over18", "EmployeeNumber"]
 df_clean = df.drop(columns=useless_cols)
-df_clean.to_csv("/home/claude/attrition_project/hr_clean.csv", index=False)
+df_clean.to_csv("hr_clean.csv", index=False)
 print("\nSaved cleaned dataset -> hr_clean.csv")
 
 # ---- Plot 1: Overall attrition distribution ----
@@ -34,7 +34,7 @@ ax.set_title("Overall Attrition Count (No vs Yes)")
 ax.set_xlabel("Attrition")
 ax.set_ylabel("Number of Employees")
 plt.tight_layout()
-plt.savefig("/home/claude/attrition_project/plot_overall_attrition.png", dpi=120)
+plt.savefig("plot_overall_attrition.png", dpi=120)
 plt.close()
 
 # ---- Plot 2: Attrition rate by Department ----
@@ -46,7 +46,7 @@ dept_attrition.plot(kind="bar", color="#C44E52", ax=ax)
 ax.set_title("Attrition Rate (%) by Department")
 ax.set_ylabel("Attrition Rate (%)")
 plt.tight_layout()
-plt.savefig("/home/claude/attrition_project/plot_dept_attrition.png", dpi=120)
+plt.savefig("plot_dept_attrition.png", dpi=120)
 plt.close()
 
 # ---- Plot 3: Attrition by OverTime ----
@@ -58,7 +58,7 @@ ot_attrition.plot(kind="bar", color="#55A868", ax=ax)
 ax.set_title("Attrition Rate (%) by OverTime Status")
 ax.set_ylabel("Attrition Rate (%)")
 plt.tight_layout()
-plt.savefig("/home/claude/attrition_project/plot_overtime_attrition.png", dpi=120)
+plt.savefig("plot_overtime_attrition.png", dpi=120)
 plt.close()
 
 # ---- Plot 4: Correlation heatmap (numeric features) ----
@@ -67,7 +67,7 @@ plt.figure(figsize=(14, 10))
 sns.heatmap(numeric_df.corr(), cmap="coolwarm", center=0, linewidths=0.3)
 plt.title("Correlation Heatmap — Numeric Features")
 plt.tight_layout()
-plt.savefig("/home/claude/attrition_project/plot_correlation_heatmap.png", dpi=120)
+plt.savefig("plot_correlation_heatmap.png", dpi=120)
 plt.close()
 
 # ---- Plot 5: Salary vs Satisfaction vs Attrition ----
@@ -81,7 +81,7 @@ ax.set_xlabel("Monthly Income")
 ax.set_ylabel("Job Satisfaction (1-4)")
 ax.set_title("Salary vs Satisfaction (bubble size = Work-Life Balance, color = Attrition)")
 plt.tight_layout()
-plt.savefig("/home/claude/attrition_project/plot_salary_satisfaction.png", dpi=120)
+plt.savefig("plot_salary_satisfaction.png", dpi=120)
 plt.close()
 
 print("\nAll EDA plots saved in attrition_project/")
