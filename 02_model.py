@@ -15,7 +15,7 @@ from sklearn.metrics import (
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("/home/claude/attrition_project/hr_clean.csv")
+df = pd.read_csv("hr_clean.csv")
 
 # ---- Encode target ----
 df["Attrition_Flag"] = df["Attrition"].map({"Yes": 1, "No": 0})
@@ -97,7 +97,7 @@ sns.barplot(x=top_features.values, y=top_features.index, color="#4C72B0")
 plt.title("Top 15 Features Driving Attrition (Random Forest)")
 plt.xlabel("Importance")
 plt.tight_layout()
-plt.savefig("/home/claude/attrition_project/plot_feature_importance.png", dpi=120)
+plt.savefig("plot_feature_importance.png", dpi=120)
 plt.close()
 print("\nTop 10 drivers of attrition:")
 print(top_features.head(10))
@@ -115,7 +115,7 @@ plt.title(f"Confusion Matrix — {best_name}")
 plt.ylabel("Actual")
 plt.xlabel("Predicted")
 plt.tight_layout()
-plt.savefig("/home/claude/attrition_project/plot_confusion_matrix.png", dpi=120)
+plt.savefig("plot_confusion_matrix.png", dpi = 120)
 plt.close()
 
 # =========================================================
@@ -135,7 +135,7 @@ def risk_bucket(p):
 
 risk_df["Risk_Level"] = risk_df["Attrition_Probability"].apply(risk_bucket)
 risk_df = risk_df.sort_values("Attrition_Probability", ascending=False).reset_index(drop=True)
-risk_df.to_csv("/home/claude/attrition_project/employee_risk_scores.csv", index=False)
+risk_df.to_csv("employee_risk_scores.csv", index=False)
 
 print("\nRisk level distribution (test set):")
 print(risk_df["Risk_Level"].value_counts())
