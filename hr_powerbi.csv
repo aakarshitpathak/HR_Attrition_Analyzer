@@ -1009,7 +1009,7 @@ EmployeeNumber,Age,Department,JobRole,OverTime,MonthlyIncome,Salary_Band,JobSati
 1421,29,Research & Development,Healthcare Representative,Yes,7553,High,4,3,3,8,9,1,0.777,High
 1422,54,Research & Development,Research Director,No,17328,High,4,2,4,20,29,0,0.019,Low
 1423,58,Research & Development,Research Director,Yes,19701,High,1,3,4,9,32,0,0.009,Low
-1424,55,Research & Development,Research Director,No,14732,High,4,4,2,7,31,0,0.0,Low
+1424,55,Research & Development,Research Director,No,14732,High,4,4,2,7,31,0,0,Low
 1425,36,Sales,Sales Executive,Yes,9278,High,2,3,1,5,15,0,0.744,High
 1427,31,Sales,Sales Representative,No,1359,Low,3,3,2,1,1,1,0.877,High
 1428,30,Sales,Sales Executive,No,4779,Mid,1,3,4,3,8,0,0.264,Low
