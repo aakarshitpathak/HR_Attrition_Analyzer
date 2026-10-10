@@ -60,7 +60,7 @@ Three pages: Overview, Where & Why, and Risk Watchlist — built on `hr_powerbi.
 
 ![Overview](PowerBI/Screenshots/page1_overview.png)
 ![Where and Why](PowerBI/Screenshots/page2_where_why.png)
-![Risk Watchlist](powerbi/screenshots/page3_watchlist.png)
+![Risk Watchlist](PowerBI/Screenshots/page3_watchlist.png)
 
 ## Files
 
